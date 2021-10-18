@@ -18,3 +18,5 @@ derby.log
 .bsp
 
 spark-warehouse
+
+derby.*
